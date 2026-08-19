@@ -1,8 +1,8 @@
-### I am a Computer Science with Mathematics Science student at the University of Leeds currently in my 4th year.
+### I am a completing a MSci, BSc Computer Science with Mathematics Science student at the University of Leeds currently in my 4th year.
 
 
 <div align="content">
-  <a href="https://www.linkedin.com/in/alexanderdjanogly" target="_blank">
+  <a href="https://www.linkedin.com/in/samueldjanogly" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
