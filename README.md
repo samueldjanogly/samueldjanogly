@@ -1,16 +1,16 @@
-## Hi there 👋
+### I am a Computer Science with Mathematics Science student at the University of Leeds currently in my 4th year.
 
-<!--
-**samueldjanogly/samueldjanogly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="content">
+  <a href="https://www.linkedin.com/in/alexanderdjanogly" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🛠️ Languages and Tools
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,bash,anaconda,html,css,js,flask,selenium,sqlite,tailwind,git,supabase,netlify)](https://skillicons.dev)
