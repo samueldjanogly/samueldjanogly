@@ -13,4 +13,4 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,java,bash,anaconda,html,css,js,flask,selenium,sqlite,tailwind,git,supabase,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,bash,anaconda,html,css,sqlite,git,supabase)](https://skillicons.dev)
