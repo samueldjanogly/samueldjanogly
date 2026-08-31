@@ -14,3 +14,6 @@
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,bash,anaconda,html,css,sqlite,git,supabase)](https://skillicons.dev)
+
+
+Certifications:	LinkedIn Excel Essential Training (Microsoft 365), Codecademy Learn Data Analysis with Pandas, Codecademy Learn Statistics with NumPy, IBM Getting Started with Enterprise Data Science
